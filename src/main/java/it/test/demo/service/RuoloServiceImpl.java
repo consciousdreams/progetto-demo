@@ -42,7 +42,6 @@ public class RuoloServiceImpl implements RuoloService {
 
 	@Override
 	public List<RuoloDto> findByNome(RuoloDto ruoloDto) {
-		// TODO Auto-generated method stub
 		return null;
 	}
 
